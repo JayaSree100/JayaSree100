@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jayasree Neelapu
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on discussing more about problem solving
+- 💞️ I’m looking to collaborate on discussing more about problem solving and open source contribution.
 - 📫 Connect with me on LinkedIn www.linkedin.com/in/jayasreeneelapu
 
 <!---
