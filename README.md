@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jayasree Neelapu
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in problem solving and full-stack development
+- 🌱 I’m currently learning front-end stack and DSA
 - 💞️ I’m looking to collaborate on discussing more about problem solving and open source contribution.
 - 📫 Connect with me on LinkedIn www.linkedin.com/in/jayasreeneelapu
 
